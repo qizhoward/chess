@@ -1,2 +1,2 @@
 # chess
-ChineseChess
+ChineseChessSimpleVersion
